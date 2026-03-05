@@ -64,5 +64,5 @@
     "prisma",
     "sharp",
     "inngest-cli"
-  ],
+  ]
 }
